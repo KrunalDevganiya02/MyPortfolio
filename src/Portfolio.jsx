@@ -41,7 +41,7 @@ Portfolio Website. I am passionate about Web3, blockchain, and working in startu
                     </a>
                         </div>        
             </main>
-            <img src={myPhoto} className='border rounded-full w-49 m-auto h-50'alt="Photo"  />
+            <img src={myPhoto} height={100}  width={150} className='border rounded-4xl m-auto'alt="Photo"  />
         </section>
 
         <h1 className='text-center text-teal-700 text-4xl'>Education</h1>
