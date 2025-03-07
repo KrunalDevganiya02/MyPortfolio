@@ -20,7 +20,12 @@ function Portfolio() {
                 <h1 className='text-3xl font-bold text-teal-700'>Krunal Devganiya</h1>
                 <h3 className='text-2xl font-semibold text-teal-600'>Software Developer</h3>
                 <div className='text-2xl'>About me</div>
-                <div className='max-w-150'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident facere ratione iste labore aliquam repellendus culpa modi consequatur ab. Accusantium veniam ipsum non, beatae quibusdam molestiae nemo blanditiis velit obcaecati.</div>
+                <div className='max-w-150'>My name is Krunal Devganiya, pursuing B.E. in Information Science and Engineering with a CGPA 
+of 8.31 at Atria Institute of Technology. I have interned at HedgeMyFunds and CIA Labs, gaining 
+experience in backend and full-stack. My technical skills include React.js, Node.js, Express.js, 
+MongoDB, and MySQL. I have built projects like a Job Portal, Second hand Product Website, and 
+Portfolio Website. I am passionate about Web3, blockchain, and working in startup environments.  
+</div>
 
                     <div className='flex flex-row justify-evenly m-5'>
                     <a href="https://github.com/KrunalDevganiya02" target='_blank' className='text-4xl text-teal-600' >
